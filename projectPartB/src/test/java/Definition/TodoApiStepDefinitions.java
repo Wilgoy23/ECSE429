@@ -268,7 +268,7 @@ public class TodoApiStepDefinitions {
         }
     }
 
-/*
+
     @After
     public void deleteAllTodos() {
         Response response = RestAssured.given()
@@ -295,7 +295,7 @@ public class TodoApiStepDefinitions {
     }
 
 
- */
+ 
 
 }
 
